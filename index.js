@@ -155,4 +155,4 @@ client.on("messageReactionAdd", async (reaction, user) => {
   }
 });
 
-client.login("MTAyMDE0MjgwMTU5OTYxMDg5MQ.G6EOzH.wd4tjd1MejbGOv-iFTMsWI_0yvzAIrg_Le3_Ck");
+client.login("Your Bot token here");
